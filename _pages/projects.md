@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+description: Some cool projects I was a part of pertaining to robotics and racecars
+nav: false
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Robotics, Racecars]
 horizontal: false
 ---
 
